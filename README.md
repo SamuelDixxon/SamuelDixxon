@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working my undegraduate bachelor's degree in Electrical Engineering
+🌱 I’m currently learning IoT technologies, topics in RF, and the C programming language
+👯 I’m looking to collaborate on problems relating to statistics
+📫 How to reach me: sdixoninvesting@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I've ran two marathons
+
 <!--
 **SamuelDixxon/SamuelDixxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
