@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working my undegraduate bachelor's degree in Electrical Engineering<br>
-🌱 I’m currently learning IoT technologies, topics in RF, and the C programming language<br>
+🔭 Joining Silicon Labs as a Product/Test Engineer this Summer and recently started a youtube channel <br>
+🌱 I’m currently learning IoT technologies, topics in RF, topics in AI, and the C programming language<br>
 👯 I’m looking to collaborate on problems relating to statistics<br>
 📫 How to reach me: sdixoninvesting@gmail.com<br>
 😄 Pronouns: He/Him<br>
