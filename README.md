@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate on problems relating to statistics<br>
 📫 How to reach me: sdixoninvesting@gmail.com<br>
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: I've ran two marathons<br>
+⚡ Fun fact: I've ran three marathons<br>
 
 <!--
 **SamuelDixxon/SamuelDixxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
