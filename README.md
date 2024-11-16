@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I finished Bachelors in Electrical Engineering from Texas A&M (May 2023!) with minors in Computer Science and Math. <br>
+🔭 I finished school at Texas A&M (May 2023!) with minors in Computer Science and Math. <br>
 🌱 I'm learning topics in statistics and electronics. <br>
 👯 I’m looking to collaborate on problems relating to statistics. <br>
 💬 My experience stems in product/test engineering at Microchip, Silicon Labs, and Texas Instruments<br>
