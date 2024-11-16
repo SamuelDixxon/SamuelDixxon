@@ -3,7 +3,7 @@
 🔭 Finished Bachelors in Electrical Engineering from Texas A&M (May 2023!) with minors in Computer Science and Math <br>
 🌱 I’m currently learning IoT technologies, topics in RF, topics in AI, MEMs, and the C programming language<br>
 👯 I’m looking to collaborate on problems relating to statistics. <br>
-💬 I'm currently a product test engineer at microchip, but have had some adjacent experiences at Silicon Labs and Texas Instruments<br>
+💬 Experience in product/test engineering at Microchip, Silicon Labs, and Texas Instruments<br>
 📫 How to reach me: sdixoninvesting@gmail.com<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I've ran three marathons<br>
