@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-🔭 I finished school at Texas A&M (May 2023!) with minors in Computer Science and Math <br>
-🌱 I'm learning topics in statistics, electronics, and ai <br>
-👯 I’m looking to collaborate on problems relating to statistics <br>
-💬 My experience stems in product/test engineering at Microchip, Silicon Labs, and Texas Instruments<br>
+🌱 I'm learning topics in statistics, electronics, and ai + interested in collabing problems in the space <br>
+💬 Product Test Engineer w/ experience from Texas Instruments, Silicon Labs, and Microchip<br>
 📫 How to reach me: sdixoninvesting@gmail.com<br>
-⚡ Fun fact: I've ran three marathons<br>
+- ⚡ Fun fact: I've ran three marathons<br>
 
 <!--
 **SamuelDixxon/SamuelDixxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
