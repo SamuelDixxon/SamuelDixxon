@@ -3,7 +3,7 @@
 💬 Work as a Product Test Engineer w/ experience from Texas Instruments, Silicon Labs, and Microchip<br>
 🌱 Study topics in statistics, electronics, fitness, social media, and ai + interested in collabing problems in the space<br>
 📫 How to reach me: sdixoninvesting@gmail.com<br>
-⚡ Fun fact: I've been to every continent exept Africa and Antartica.<br>
+⚡ Fun fact: I've been to every continent excluding Africa and Antartica.<br>
 
 <!--
 **SamuelDixxon/SamuelDixxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
